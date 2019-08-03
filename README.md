@@ -8,6 +8,6 @@ isLegal.py and graphColoring.py are based on coloring a map, such that two adjac
 
 BinaryTree.py, Dictionary.py, and Dictionary_Faster.py are implementations of binary trees and dictionaries. All of these data types are made from scratch in this code.
 
-TwentyQuestions.py takes the BinaryTree.py program previously mentioned to create a abreviated game of 20 Questions.
+TwentyQuestions.py takes the BinaryTree.py program previously mentioned to create a abbreviated game of 20 Questions.
 
 checkers.py was my final project for this course, and it is an ASCII art version of checkers that can be played with another human player or a computer AI. During each turn, the player is presented with a list of possible pieces to move, and then the moves that chosen piece can make. The player chooses their piece and move by typing the number associated with that piece or move, and then pressing enter. This program relies very heavily on recursion to calculate all possible moves for each piece, especially when the move involves jumping another piece. 
